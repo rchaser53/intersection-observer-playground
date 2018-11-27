@@ -17,7 +17,5 @@
     "url": "https://github.com/rchaser53/intersection-observer-playground/issues"
   },
   "homepage": "https://github.com/rchaser53/intersection-observer-playground#readme",
-  "dependencies": {
-    "intersection-observer": "^0.5.1"
-  }
+  "dependencies": {}
 }
