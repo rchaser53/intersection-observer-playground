@@ -1,0 +1,23 @@
+{
+  "name": "intersection-observer-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/intersection-observer-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/intersection-observer-playground/issues"
+  },
+  "homepage": "https://github.com/rchaser53/intersection-observer-playground#readme",
+  "dependencies": {
+    "intersection-observer": "^0.5.1"
+  }
+}
